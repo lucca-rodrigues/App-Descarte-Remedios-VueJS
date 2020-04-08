@@ -1,7 +1,5 @@
-<<<<<<< HEAD
-
 <h4 align="center">
-<img src="screenshot/screenshot.jpg" /><br>
+<img src="screenshot/screenshot.JPG" /><br>
  <b>Aplicativo para descarte de remédios</b> 🦸‍♂️
 </h4>
 
